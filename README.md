@@ -16,7 +16,7 @@ Ich bin immer auf der Suche nach spannenden Projekten und freue mich auf die Zus
 
 ## Kontakt 📫 
 
-Sie können mich unter nikolai.junker@t-online.de erreichen.
+Einfach über GitHub Kontakt aufnehmen.
 
 ---
 
