@@ -1,6 +1,6 @@
 # Hallo, ich bin Nikolai Junker 👋
 
-Ich bin ein Wirtschaftsinformatik-Masterstudent im 3 Semester.
+Ich bin ein Wirtschaftsinformatik-Masterstudent im 4 Semester.
 
 ## Meine Interessen 👀 
 
@@ -8,7 +8,7 @@ Ich habe ein breites Spektrum an Interessen in der Informatik, das von maschinel
 
 ## Aktuelle Projekte 🌱 
 
-Derzeit arbeite ich als Teil eines Teams an einem KI-Modell zur Sentiment-Analyse von Bürgerkommentaren. 
+Derzeit arbeite ich an meiner Masterarbeit. 
 
 ## Zusammenarbeit 💞️ 
 
